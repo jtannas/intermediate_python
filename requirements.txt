@@ -1,0 +1,5 @@
+mypy                        # python static type checker
+
+# Dev Tools; Not needed for distribution
+pytest                      # code tester
+yapf                        # code formatter
